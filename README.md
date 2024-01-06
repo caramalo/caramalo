@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Reeve Paul</h1>
 <h3 align="center">A passionate Data Scientist looking for opportunities in the industry.</h3>
