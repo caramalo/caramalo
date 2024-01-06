@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [the repositories tab. They currently include a recipe recommender system, Hotel sentiment analysis, Indeed web scraper and job aggregator.](the repositories tab. They currently include a recipe recommender system, Hotel sentiment analysis, Indeed web scraper and job aggregator.)
+- 👨‍💻 All of my projects are available at the repositories tab. They currently include a recipe recommender system, Hotel sentiment analysis, Indeed web scraper and job aggregator.
 
 - 📫 How to reach me **reeve.pauls@gmail.com**
 
