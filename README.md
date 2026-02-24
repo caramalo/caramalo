@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caramalo" alt="caramalo" /></a> </p>
 
-- 🔭 I’m currently working on **Unsupervised Learning Stock Trading Strategies**
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
